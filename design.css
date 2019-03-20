@@ -1,0 +1,12 @@
+body {
+    margin: auto 0;
+    background:transparent url('./5 raceyaya.jpg') no-repeat scroll;
+    background-size: cover;
+    
+}
+
+.main-container {
+    height: 6100px;
+    width: 100%;
+    max-width: 100vw;
+}
